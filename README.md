@@ -1,1 +1,1 @@
-# ML-gesture-mnist
+# ML-projects
